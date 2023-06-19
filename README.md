@@ -3,10 +3,9 @@ F - 121
 
 # Ürünle İlgili Bilgiler
 
-AI yardımıyla dengeli beslenme ve diyet hzizmetleri sunan akıllı bir sağlıklı beslenme uygulaması.
+AI yardımıyla dengeli beslenme ve diyet hizmetleri sunan akıllı bir sağlıklı beslenme uygulaması.
 
 # Ürün İsmi
-
 DietMate
 
 # Ürün İle İlgili Bİlgiler
@@ -19,8 +18,6 @@ DietMate
 - Esranur Aydn: Developer
 - Eda Davulcu: Developer
 
-## Ürün İsmi
---oylanıyor.
 
 ## Ürün Açıklaması
 Bu uygulama, bireysel beslenme ihtiyaçlarına yönelik 
@@ -90,7 +87,7 @@ Sprint board update: Sprint board screenshotları:
 - *Sprint Review*:
 
 Alınan kararlar:
-Akıllı diyetisyen uygulaması yapılmaya karar verildi. Şuanda çok populer olan AI teknolojisini uygulamamıza entegre etmek istedik.
+Akıllı diyetisyen uygulaması yapılmaya karar verildi. Şuanda çok popüler olan AI teknolojisini uygulamamıza entegre etmek istedik.
 
 
 
