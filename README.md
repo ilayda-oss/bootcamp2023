@@ -85,7 +85,7 @@ https://trello.com/b/N9uHYkdO/sprint1
 Sprint board update: Sprint board screenshotları:
 <img width="1426" alt="Ekran Resmi 2023-06-19 21 42 56" src="https://github.com/ilayda-oss/bootcamp2023/assets/78704859/ae866755-29d2-499c-88cf-48608ad01982">
 - *Sprint Review*:
- [Uploading Daily Scrum Chat.pdf…]()
+ uploaded as a docx file
 
 
 Alınan kararlar:
