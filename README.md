@@ -110,8 +110,55 @@ Akıllı diyetisyen uygulaması yapılmaya karar verildi. Şuanda çok popüler 
 ---
 
 # Sprint 2
+Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
+
+Sprint board update: Sprint board screenshotları:
+(![image](https://github.com/ilayda-oss/bootcamp2023/assets/129731974/6c1ed473-13fb-4651-92e7-66017267aa00)
+
+- *Sprint Review*:
+ uploaded as a docx file
+
+Alınan Kararlar:
+Uygulama logo tasarımı konuşuldu ve görevlendirildi.
+Giriş kayıt ol ekranı , AI ekranı , BMI hesaplama ekranı , profil ekranı , istek listesi ekranı grup üyeleri arasında görev olarak paylaşıldı.
+Görevler zamanında teslim edilmediği için projede bir takım aksaklıklar oluştu.
+Toplantılar zamanında yapılamadı.
+
+
+
+
 
 
 ---
 
 # Sprint 3
+- Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
+
+Sprint board update: Sprint board screenshotları:
+
+
+Alınan Kararlar:
+Görevlendirilen projelerin teslimi yapıldı.
+Uygulamanın son hali için çalışmalara başlandı.
+Toplantı yapıldı ve 
+
