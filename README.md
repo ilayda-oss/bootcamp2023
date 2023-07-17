@@ -1,4 +1,4 @@
-Takım İsmi
+# Takım İsmi
 F - 121
 
 Ürünle İlgili Bilgiler
@@ -9,18 +9,19 @@ DietMate
 
 Ürün İle İlgili Bİlgiler
 Takım Elemanları
-Sude İlayda Özkara: Scrum Master
-Necdet Yavuz Aktaş: Product Owner
-Mert Kaan Güneş: Developer
-Esranur Aydn: Developer
-Eda Davulcu: Developer
-Ürün Açıklaması
+- Sude İlayda Özkara: Scrum Master
+- Necdet Yavuz Aktaş: Product Owner
+- Mert Kaan Güneş: Developer
+- Esranur Aydn: Developer
+- Eda Davulcu: Developer
+
+## Ürün Açıklaması
 Bu uygulama, bireysel beslenme ihtiyaçlarına yönelik otomatik ve kişiye özel bir beslenme planı oluşturmayı sağlayan bir yapay zeka destekli mobil uygulamanın tasarlanması ve geliştirilmesi sürecini ele almaktadır.
 
 Ürün Özellikleri
 Bu uygulama, kullanıcının sağlık durumu, cinsiyeti, fiziksel aktivite seviyesi ve yaş gibi faktörleri dikkate alarak kişiye özel bir beslenme planı sunabilecektir. Beslenme, bireylerin sağlık ve yaşam kalitesi üzerinde büyük bir etkiye sahiptir. Ancak, her bireyin beslenme ihtiyaçları ve tercihleri farklıdır ve kişiye özel bir beslenme planı oluşturmak karmaşık ve zaman alıcı olabilir. Bu nedenle, yapay zeka ve makine öğrenmesi teknolojilerinin kullanıldığı bir mobil uygulama, bireylerin sağlık hedeflerine ulaşmalarını kolaylaştırabilir ve beslenme uzmanlarının iş yükünü azaltabilir. Bu bağlamda, AI ve ML destekli kişiye özel beslenme planı oluşturan mobil uygulamanın geliştirilmesi büyük bir öneme sahiptir.
 
-UI
+### UI
 
 Profil
 
@@ -40,7 +41,7 @@ Diyet planlamasına ihtiyaç duyan bireyler.
 Product Backlog URL
 https://trello.com/b/N9uHYkdO/sprint1
 
-Sprint1
+# Sprint1
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
@@ -59,16 +60,16 @@ Sprint Review: uploaded as a docx file
 Alınan kararlar: Akıllı diyetisyen uygulaması yapılmaya karar verildi. Şuanda çok popüler olan AI teknolojisini uygulamamıza entegre etmek istedik.
 
 Sprint Retrospective:
-Görev Dağılımı: Toplantılar sonucu görev dağılımı kişilerin bilgisiyle orantılı olarak verildi ve yardım ortamı oluşturuldu.
+- Görev Dağılımı: Toplantılar sonucu görev dağılımı kişilerin bilgisiyle orantılı olarak verildi ve yardım ortamı oluşturuldu.
 
-Hedeflerin Tamamlanması: Scrum Board tarafından hedefler büyük ölçüde takip edildi.
+- Hedeflerin Tamamlanması: Scrum Board tarafından hedefler büyük ölçüde takip edildi.
 
-Geri Bildirim: Takım üyeleri arasında daha fazla iletişime geçilmesine ve görev takibi ve tamamlamaları konusunda daha dikkatli ilerlenmesine karar verildi.
+- Geri Bildirim: Takım üyeleri arasında daha fazla iletişime geçilmesine ve görev takibi ve tamamlamaları konusunda daha dikkatli ilerlenmesine karar verildi.
 
 Takım verimliliğini artırmak, uygulama hedeflerine daha iyi odaklanmak için görev dağılımı, hedeflerin tamamlanması, geri bildirim konularını ele aldık.
 
 Ekran Resmi 2023-06-19 21 45 37 Ekran Resmi 2023-06-19 21 46 14
-Sprint 2
+# Sprint 2
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
@@ -81,12 +82,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
 
-Sprint board update: Sprint board screenshotları: (image
+Sprint board update: Sprint board screenshotları: 
 
 Sprint Review: uploaded as a docx file
 Alınan Kararlar: Uygulama logo tasarımı konuşuldu ve görevlendirildi. Giriş kayıt ol ekranı , AI ekranı , BMI hesaplama ekranı , profil ekranı , istek listesi ekranı grup üyeleri arasında görev olarak paylaşıldı. Görevler zamanında teslim edilmediği için projede bir takım aksaklıklar oluştu. Toplantılar zamanında yapılamadı.
 
-Sprint 3
+# Sprint 3
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
