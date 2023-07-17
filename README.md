@@ -160,5 +160,5 @@ Sprint board update: Sprint board screenshotları:
 Alınan Kararlar:
 Görevlendirilen projelerin teslimi yapıldı.
 Uygulamanın son hali için çalışmalara başlandı.
-Toplantı yapıldı ve 
+Toplantı yapıldı.
 
