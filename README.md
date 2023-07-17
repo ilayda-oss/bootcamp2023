@@ -54,7 +54,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
 
-Sprint board update: Sprint board screenshotları: Ekran Resmi 2023-06-19 21 42 56
+Sprint board update: Sprint board screenshotları: 
+<img width="1463" alt="Ekran Resmi 2023-06-19 21 40 41" src="https://github.com/ilayda-oss/bootcamp2023/assets/78704859/ec8a4065-0de4-4cb5-8906-8d103ee98c0c">
 
 Sprint Review: uploaded as a docx file
 Alınan kararlar: Akıllı diyetisyen uygulaması yapılmaya karar verildi. Şuanda çok popüler olan AI teknolojisini uygulamamıza entegre etmek istedik.
@@ -68,7 +69,7 @@ Sprint Retrospective:
 
 Takım verimliliğini artırmak, uygulama hedeflerine daha iyi odaklanmak için görev dağılımı, hedeflerin tamamlanması, geri bildirim konularını ele aldık.
 
-Ekran Resmi 2023-06-19 21 45 37 Ekran Resmi 2023-06-19 21 46 14
+
 # Sprint 2
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
@@ -82,10 +83,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
 
-Sprint board update: Sprint board screenshotları: 
+Sprint board update: Sprint board screenshotları:
+![WhatsApp Image 2023-07-18 at 02 01 43](https://github.com/ilayda-oss/bootcamp2023/assets/78704859/1abe6b2a-d798-4dd0-802e-0164441395de)
 
 Sprint Review: uploaded as a docx file
 Alınan Kararlar: Uygulama logo tasarımı konuşuldu ve görevlendirildi. Giriş kayıt ol ekranı , AI ekranı , BMI hesaplama ekranı , profil ekranı , istek listesi ekranı grup üyeleri arasında görev olarak paylaşıldı. Görevler zamanında teslim edilmediği için projede bir takım aksaklıklar oluştu. Toplantılar zamanında yapılamadı.
+
 
 # Sprint 3
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
@@ -101,5 +104,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
 
 Sprint board update: Sprint board screenshotları:
+<img width="1470" alt="Ekran Resmi 2023-07-18 02 09 10" src="https://github.com/ilayda-oss/bootcamp2023/assets/78704859/7ad7a176-a367-4579-a035-ddbefe41f9ff">
 
 Alınan Kararlar: Görevlendirilen projelerin teslimi yapıldı. Uygulamanın son hali için çalışmalara başlandı. Toplantı yapıldı.
