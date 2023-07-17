@@ -56,6 +56,7 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack 
 
 Sprint board update: Sprint board screenshotları: 
 <img width="1463" alt="Ekran Resmi 2023-06-19 21 40 41" src="https://github.com/ilayda-oss/bootcamp2023/assets/78704859/ec8a4065-0de4-4cb5-8906-8d103ee98c0c">
+<img width="866" alt="Ekran Resmi 2023-07-18 02 12 15" src="https://github.com/ilayda-oss/bootcamp2023/assets/78704859/e6ba5f4e-6a46-45bb-8b7f-6af31056fe59">
 
 Sprint Review: uploaded as a docx file
 Alınan kararlar: Akıllı diyetisyen uygulaması yapılmaya karar verildi. Şuanda çok popüler olan AI teknolojisini uygulamamıza entegre etmek istedik.
