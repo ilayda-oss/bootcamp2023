@@ -1,3 +1,5 @@
+# *proje kodlarımızı gitignore yapamadık drive linkinde mevcut*
+https://drive.google.com/drive/folders/1sadRO_PfQpu17KvM_Fk2ymw98z0O6cKP?usp=sharing
 # Takım İsmi
 F - 121
 
